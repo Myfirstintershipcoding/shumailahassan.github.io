@@ -1,0 +1,15 @@
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Your custom styles */
+@import "default";
+@import "nav";
+@import "home";
+@import "post";
+@import "footer";
+@import "author";
+@import "grid_layout";
+@import "taxonomy";
