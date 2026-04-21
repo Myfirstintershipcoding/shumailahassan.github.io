@@ -1,6 +1,6 @@
 my writting
 ---
-Title: "My "Writting"
+Title: "My Writting"
 layout: archive
 ---
  
