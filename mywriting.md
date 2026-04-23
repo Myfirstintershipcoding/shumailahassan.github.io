@@ -1,7 +1,6 @@
-my writing
+My writing
 ---
-Title: "My Writing"
-layout: archive
+
 
 
 1111
