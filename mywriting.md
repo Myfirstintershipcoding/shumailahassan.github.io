@@ -1,5 +1,5 @@
 ---
-title: "My Writting"
+title: "My Writing"
 layout: archive
 ---
 
